@@ -1,0 +1,22 @@
+{
+    "browser_name" : "chrome",
+    "path" : "./core/drivers/chromedriver.exe",
+    "url" : "http://practice.automationtesting.in/",
+    "incognito" : false,
+    "headless" : {
+        "enabled" : false,
+        "resolution" : {
+            "width" : 1920,
+            "height" : 1080
+        }
+        
+    },
+    "page_load" : 30,
+    "implicit_wait": 5,
+    "explicit_waits" :{
+        "small":2,
+        "medium": 7,
+        "large" : 15
+    },
+    "screenshots":"./screenshots/"
+}
