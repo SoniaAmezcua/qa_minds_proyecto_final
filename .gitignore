@@ -2,6 +2,7 @@
 __pycache__/
 drivers/
 screenshots/
+v_selenium/
 *.py[cod]
 *$py.class
 
