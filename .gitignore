@@ -1,8 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-.exe
-.jpg
-.png
+*.exe
+*.jpg
+*.png
 v_selenium/
 *.py[cod]
 *$py.class
